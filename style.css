@@ -1,0 +1,39 @@
+* {
+    font-family: Roboto;
+    box-sizing: border-box;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.conteiner {
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+    background-color: #1F2937;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+nav img {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: ;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
